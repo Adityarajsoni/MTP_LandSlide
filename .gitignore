@@ -3,3 +3,15 @@ data/
 
 # Trained model weights
 *.pth
+
+# Checkpoints
+checkpoints/
+
+# Generated results
+results/
+
+# Python cache
+__pycache__/
+
+# VS Code settings
+.vscode/
